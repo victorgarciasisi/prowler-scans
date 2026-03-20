@@ -2,6 +2,9 @@
 
 Usa la pipeline ya definida en:
 - https://github.com/victorgarciasisi/demo-gh-action-cd-minimo
+- https://github.com/victorgarciasisi/demo-gh-action-ci-minimo-trivy-scan
+- https://github.com/victorgarciasisi/demo-gh-action-ci-minimo-vulnerability-dependency
+- https://github.com/victorgarciasisi/demo-gh-action-ci-minimo-detect-secrets
 
 Qué validar en directo:
 - jobs verdes/rojos y su gating
