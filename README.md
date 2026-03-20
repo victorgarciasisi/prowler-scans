@@ -26,7 +26,7 @@ aws sts get-caller-identity
 aws ec2 describe-regions --query 'Regions[].RegionName' --output text
 ```
 
-### 3: Prowler AWS provider ([funciona](https://docs.prowler.com/getting-started/basic-usage/prowler-cli))
+### 3: Prowler AWS provider (https://docs.prowler.com/getting-started/basic-usage/prowler-cli)
 
 Permisos prowler: https://docs.prowler.com/user-guide/providers/aws/authentication
 
@@ -91,7 +91,7 @@ docker run --rm -it \
 
 ```
 
-### 5: Quick Inventory AWS (funciona)
+### 5: Quick Inventory AWS (https://docs.prowler.com/user-guide/cli/tutorials/quick-inventory)
 
 ```bash
 # Inventario rápido de recursos AWS
